@@ -1,0 +1,18 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.env
+
+# local trace stores
+.replay_rag_chroma/
+*.db
